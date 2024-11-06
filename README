@@ -1,0 +1,11 @@
+//Matthew Penner
+
+Instructions:
+
+(1) Compile the program using 'make'
+(2) Run the program using ./a.out
+(3) When prompted with numerical choices, type an integer that corresponds with one of the choices provided 
+(it will not error if you type in the wrong int, it just automatically assumes no)
+----->If you enter in an invalid option (like an incorrect type), the program will carry out exception handling
+(4) When prompted to type in numerical values for properties of a pet you would like to add, type in an integer format
+(5) Press 0 if you want to exit the program when prompted
